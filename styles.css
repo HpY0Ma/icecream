@@ -1,0 +1,39 @@
+.nav__list {
+    margin-left: 35%;
+    display: flex;
+}
+
+.nav__item {
+    margin: 25px;
+}
+
+.btn {
+    position: absolute;
+    width: 100px;
+    height: 22px;
+    left: 1255px;
+    top: 39px;
+    color: purple;
+    background: #D23166;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+.logo2 {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.wrapper {
+    background-color: rgb(232, 217, 240);
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Hind Madurai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
